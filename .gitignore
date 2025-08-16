@@ -67,4 +67,4 @@ coverage/
 # Temporary files
 *.tmp
 *.temp
-.cache/.env.docker
+.env.docker
